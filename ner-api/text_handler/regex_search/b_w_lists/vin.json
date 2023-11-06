@@ -1,0 +1,4 @@
+{
+    "whitelist": ["vin", "stelnr", "stelnummer"],
+    "blacklist": []
+}

@@ -1,0 +1,4 @@
+{
+    "whitelist": ["cvr", "cvr:"],
+    "blacklist": ["tlf", "tlf.", "telefon", "tlfnr", "tlfnr."]
+}

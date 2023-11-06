@@ -1,0 +1,4 @@
+{
+    "whitelist": ["plate", "platenumber", "nummerplade" ],
+    "blacklist": ["Adresse", "Adress", "USA", "Canada"]
+}

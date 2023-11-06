@@ -1,0 +1,4 @@
+{
+    "whitelist": ["kontonr", "kontonr.", "konto", "konto.", "konto-nr", "konto-nr.", "konto nr", "konto nr.", "kontonummer"],
+    "blacklist": []
+}

@@ -1,0 +1,4 @@
+{
+    "whitelist": ["gps", "kordinater"],
+    "blacklist": []
+}

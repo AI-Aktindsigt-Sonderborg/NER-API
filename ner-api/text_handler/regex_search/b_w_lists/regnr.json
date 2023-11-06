@@ -1,0 +1,4 @@
+{
+    "whitelist": ["regnr", "regnr.", "reg", "reg.", "reg-nr", "reg-nr.", "reg nr", "reg nr.", "reg nummer", "regnummer"],
+    "blacklist": []
+}

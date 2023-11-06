@@ -1,0 +1,4 @@
+{
+    "whitelist": ["guid", "uuid"],
+    "blacklist": []
+}

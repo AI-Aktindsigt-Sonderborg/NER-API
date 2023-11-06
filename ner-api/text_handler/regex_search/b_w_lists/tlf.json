@@ -1,0 +1,4 @@
+{
+    "whitelist": ["tlf", "telefon", "nr", "nummer", "kontakt", "m"],
+    "blacklist": ["cvr", "momsregistreringsnummer", "registreringsnummer", "momsregistreringsnr", "cpr", "kontonummer", "konto nr.", "iban", "guid", "uuid", "nummerplade"]
+}

@@ -1,0 +1,4 @@
+{
+    "whitelist": ["lov", "retsakter", "retsakt", "afgørelse", "eu"],
+    "blacklist": []
+}

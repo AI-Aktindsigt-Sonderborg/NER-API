@@ -1,0 +1,4 @@
+{
+    "whitelist": ["matr", "matr.", "mat", "mat.", "matrikel", "matrikelnummer", "matrnr", "matnr", "matr.nr.", "mat.nr.", "mat.nr", "matr.nr", "mat-nr", "matr-nr"],
+    "blacklist": ["husnr", "husnr.", "hnr", "vejnr", "vejnr."]
+}

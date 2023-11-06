@@ -1,0 +1,4 @@
+{
+    "whitelist": ["date", "dato", "den", "d"],
+    "blacklist": ["tlf", "cvr", "cpr", "nr.", "nr", "nummer", "number", "nummer:"]
+}

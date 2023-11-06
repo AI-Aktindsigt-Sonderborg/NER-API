@@ -1,0 +1,4 @@
+{
+    "whitelist": ["swift", "bic", "iban", "society", "worldwide", "interbank", "financial", "telecommunication", "bank", "identifier", "code"],
+    "blacklist": []
+}

@@ -1,0 +1,4 @@
+{
+    "whitelist": ["url", "web", "link"],
+    "blacklist": []
+}

@@ -1,0 +1,4 @@
+{
+    "whitelist": ["age", "år", "år.", "gammel", "alder", "årige"],
+    "blacklist": []
+}

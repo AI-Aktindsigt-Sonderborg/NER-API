@@ -1,0 +1,4 @@
+{
+    "whitelist": ["pris","dollar", "dollars", "euros", "euro", "kroner", "yen", "rubler", "bitcoin", "ethereum", "CNY", "EUR", "DKK", "USD", "BTC", "XBT", "ETC", "LTC", "XRP", "USDT", "XMR", "cny", "eur", "dkk", "usd", "btc", "xbt", "etc", "ltc", "xrp", "usdt", "xmr", "kr", "£", "€", "¥", "₩", "moms", "MOMS", "beløb", "Beløb"],
+    "blacklist": ["kl", "nr", "stk"]
+}
