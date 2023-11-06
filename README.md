@@ -5,9 +5,17 @@ Developed by Aktio.ai and published by Sønderborg Kommune.
 
 ## Running the API/Server
 *Make sure you have a docker system up and running before running docker commands.*
-0. (optional) change the docker-compose.yml file to your needs (port and host)
+
+*(optional) change the docker-compose.yml file to your needs (port and host)*
 1. change directory to the root of this project
-2. run: $ docker-compose up -d
+2. production run: $ docker-compose -f docker-compose.yml up -d
+3. developer run: $ docker-compose up -d
+
+## Tests
+the list of modules from requirements_dev.txt is required to have installed.
+1. $ docker exec -it <container_id> /bin/bash
+2. $ cd /app/tests
+3. $ pytest
 
 # NER API Usage
 Here is a complete list of NER endpoints, examples and relevant information.
