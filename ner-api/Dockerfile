@@ -1,0 +1,21 @@
+FROM tiangolo/uvicorn-gunicorn-fastapi:python3.8
+
+RUN apt-get -y update && apt-get -y install \
+    python3 \
+    python3-setuptools \
+    python3-pip \
+    python3-wheel \
+    python3-cffi \
+    automake \
+    git \
+    git-lfs \
+    autoconf \
+    && apt-get clean \
+    && apt-get autoremove \
+    && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /ner_api
+
+COPY requirements.txt /app/requirements.txt
+RUN pip install --upgrade pip
+RUN pip install --no-cache-dir -r /app/requirements.txt
