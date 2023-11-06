@@ -3,3 +3,4 @@ flashtext
 requests
 uvicorn
 python-dateutil
+regex
